@@ -1,0 +1,7 @@
+# Run pip install --requirement=requirements.txt to install all requirements
+
+click==8.0
+py==1.10.0
+pytest==3.2.3
+python-engineio==3.14.2 
+python-socketio[client]==4.6.0
