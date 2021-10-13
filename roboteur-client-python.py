@@ -50,7 +50,7 @@ def disconnect():
 #     click.echo('create user on service https://uat.roboteur.co.uk/api/reaction')
 def main():
     sio.connect('https://uat.roboteur.co.uk', headers={
-        'Authorization': 'Bearer TOKEN'
+        'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6ImFjY2VzcyJ9.eyJpYXQiOjE2MzQxNDI3ODQsImV4cCI6MTYzNDc0NzU4NCwiYXVkIjoiaHR0cHM6Ly91YXQucm9ib3RldXIuY28udWsiLCJpc3MiOiJmZWF0aGVycyIsInN1YiI6ImJmYjRhOTM0LTJiOTQtNDYyNC04OTg1LTFjMTliMzJhYTgwMSIsImp0aSI6ImZiOTg5ZTBlLTk2ZWQtNGY2OC05MGIyLTQzZTA5ZmY0MGQ0OCJ9.NWdAQNpiQDicnKgt50VuWnEt7W7ZlkAu9hENRPTTDlw'
     })
     # sio.wait()
 
