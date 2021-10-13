@@ -4,3 +4,4 @@ venv/
 .cache/
 
 _notes.md
+_auth.json

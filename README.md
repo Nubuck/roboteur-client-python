@@ -1,6 +1,6 @@
-# roboteur-client-python
+# Roboteur Client Example
 
-roboteur-client-python is a Python CLI application generated from https://github.com/xuanluong/cookiecutter-python-cli
+TODO
 
 ## Basic setup
 
@@ -11,7 +11,7 @@ $ pip install -r requirements.txt
 
 Run the application:
 ```
-$ python -m roboteur_client_python --help
+$ python -m roboteur_client --help
 ```
 
 To run the tests:
